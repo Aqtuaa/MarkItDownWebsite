@@ -1,0 +1,19 @@
+# Virtual environments
+MarkItDown/
+venv/
+.venv/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Uploads & local outputs
+uploads/*
+!uploads/.gitkeep
+output.md
+
+# OS files
+.DS_Store
+Thumbs.db

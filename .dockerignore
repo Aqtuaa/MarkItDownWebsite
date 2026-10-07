@@ -1,0 +1,13 @@
+MarkItDown/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git/
+.gitignore
+uploads/*
+!uploads/.gitkeep
+test.pdf
+output.md
