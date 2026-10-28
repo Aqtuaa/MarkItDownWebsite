@@ -5,3 +5,4 @@ pymupdf>=1.23.0
 pillow>=10.0.0
 pytesseract>=0.3.10
 gunicorn>=21.2.0
+pywebview>=5.0.0
